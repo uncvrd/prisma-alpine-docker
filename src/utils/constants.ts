@@ -1,0 +1,1 @@
+export const MAXIMUM_LINK_LENGTH = 65535;
